@@ -5,7 +5,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=byr1215)](https://solved.ac/byr1215)
 
 # LeetCode 🏆
-[![Leetcode Stats](https://leetcard.jacoblin.cool/zzickgwan)](https://leetcode.com/zzickgwan)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/100-0-10)](https://leetcode.com/100-0-10)
 
 # Skills 📊
 ### Languages ✏️
