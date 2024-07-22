@@ -4,6 +4,9 @@
 # Baekjoon 🏆
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=byr1215)](https://solved.ac/byr1215)
 
+# LeetCode 🏆
+[![Leetcode Stats](https://leetcard.jacoblin.cool/zzickgwan)](https://leetcode.com/zzickgwan)
+
 # Skills 📊
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
