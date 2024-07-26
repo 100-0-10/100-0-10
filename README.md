@@ -9,17 +9,19 @@
 
 # Skills 📊
 ### Language ✏️
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=plastic&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=plastic&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=plastic&logo=SpringBoot&logoColor=white)
 
 ### DataBase 🗄️
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=plastic&logo=MySQL&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=plastic&logo=Oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?&style=plastic&logo=PostgreSQL&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-white.svg?&style=plastic&logo=MariaDB&logoColor=003d43)
 
 ### Tool 🛠️
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDE-2C2255.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=plastic&logo=Git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-white?&style=plastic&logo=jenkins&logoColor=blue)
+![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=plastic&logo=Eclipse%20IDE&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDE-2C2255.svg?&style=plastic&logo=intellijidea&logoColor=white)
 
