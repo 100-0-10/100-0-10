@@ -1,5 +1,4 @@
 ## 백영렬 == 100 0 10 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F100-0-10%2Fhit-counter&count_bg=%239CCCFF&title_bg=%2351B6FF&icon=&icon_color=%23FF0B0B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Baekjoon 🏆
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=byr1215)](https://solved.ac/byr1215)
